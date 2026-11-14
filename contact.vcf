@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:이;범례;;;
+FN:이범례
+ORG:부찌대학
+TITLE:대표
+TEL;TYPE=CELL:010-9151-2718
+item1.TEL:02-925-3343
+item1.X-ABLabel:고대본점
+item2.TEL:02-929-6667
+item2.X-ABLabel:부찌대학(배달전문)
+EMAIL;TYPE=WORK:bu-zzi@naver.com
+item3.ADR:;;안암로22길 5 1층;동대문구;서울시;;대한민국
+item3.X-ABLabel:소문난의정부부대찌개 고대본점
+item4.ADR:;;안암로22길 21;동대문구;서울시;;대한민국
+item4.X-ABLabel:부찌대학(배달전문)
+item5.URL:https://www.instagram.com/buzzi_daehak/
+item5.X-ABLabel:인스타그램
+item6.URL:https://litt.ly/kfbuzzi
+item6.X-ABLabel:링크 모음
+NOTE:고려대 정문 앞 부대찌개 전문점 · 소문난의정부부대찌개 고대본점 / 부찌대학
+END:VCARD
